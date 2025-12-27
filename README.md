@@ -2,7 +2,7 @@
 
 I'm a 24-year-old fullstack developer based in Saint Gallen, Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies. I enjoy creating software algorithms, including neuronal networks for surface inspection and quality assurance.
 
-Currently, I work part-time at **esp-engineering GmbH**, where I expand my knowledge in vision-based algorithms, operator interfaces, big datasets, and more. I am also pursuing a **Systems Engineering** degree at the Zurich University of Applied Sciences (second semester).
+I am currently pursuing a **Systems Engineering** bachelors-degree at the Zurich University of Applied Sciences.
 
 In my free time, I fly quadrocopters and develop plugins for fully autonomous autopilots.
 
