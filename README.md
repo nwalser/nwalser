@@ -8,15 +8,11 @@ Currently, I work part-time at **esp-engineering GmbH**, where I expand my knowl
 
 In my free time, I fly quadrocopters and develop plugins for fully autonomous autopilots.
 
----
-
 ## 🛠 Technologies & Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=csharp,ts,svelte,nextjs,docker,mbed,aspnet" alt="Technologies" />
 </p>
-
----
 
 ## ✉️ Contact Me
 - [LinkedIn](https://www.linkedin.com/in/nathaniel-walser/)
