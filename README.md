@@ -9,7 +9,5 @@ In my free time, I fly quadrocopters and develop plugins for fully autonomous au
 ## 🛠 Technologies & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=csharp,ts,svelte,nextjs,docker,mbed,aspnet" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=rider,ts,html,css,svelte,nextjs,docker,raspberry,terraform,vscode" alt="Technologies" />
 </p>
-
-> “Always learning, always building.”  
