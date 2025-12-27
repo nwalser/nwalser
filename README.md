@@ -14,11 +14,4 @@ In my free time, I fly quadrocopters and develop plugins for fully autonomous au
   <img src="https://skillicons.dev/icons?i=csharp,ts,svelte,nextjs,docker,mbed,aspnet" alt="Technologies" />
 </p>
 
-## ✉️ Contact Me
-- [LinkedIn](https://www.linkedin.com/in/nathaniel-walser/)
-- [GitHub](https://github.com/nwalser)
-- Email: personal@nathaniel-walser.com
-
----
-
 > “Always learning, always building.”  
