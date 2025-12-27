@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nathaniel Walser
 
-I'm a 24-year-old fullstack developer based in Saint Gallen, Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies. I enjoy creating software algorithms, including neuronal networks for surface inspection and quality assurance.
+I'm a fullstack developer based in Saint Gallen, Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies. I enjoy creating software algorithms, including neuronal networks for surface inspection and quality assurance.
 
 I am currently pursuing a **Systems Engineering** bachelors-degree at the Zurich University of Applied Sciences.
 
