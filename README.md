@@ -18,25 +18,6 @@ In my free time, I fly quadrocopters and develop plugins for fully autonomous au
 
 ---
 
-## 🚀 Projects
-
-Here are some projects I'm proud of:
-
-- **[tabby](https://github.com/nwalser/tabby)** – Modern terminal application built with TypeScript.
-- **[personal-homepage](https://github.com/nwalser/personal-homepage)** – My personal homepage built with Svelte.
-- **[Project Name 1]** – Description of the project (link).
-- **[Project Name 2]** – Description of the project (link).
-
----
-
-## 📊 GitHub Stats
-
-![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwalser&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwalser&layout=compact&theme=radical)
-
----
-
 ## ✉️ Contact Me
 - [LinkedIn](https://www.linkedin.com/in/nathaniel-walser/)
 - [GitHub](https://github.com/nwalser)
