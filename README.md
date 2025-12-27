@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Nathaniel Walser
 
-<!--
-**nwalser/nwalser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/Fullstack%20Developer-24-blue?style=for-the-badge&logo=github)
 
-Here are some ideas to get you started:
+I'm a 24-year-old fullstack developer based in Saint Gallen, Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies. I enjoy creating software algorithms, including neuronal networks for surface inspection and quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work part-time at **esp-engineering GmbH**, where I expand my knowledge in vision-based algorithms, operator interfaces, big datasets, and more. I am also pursuing a **Systems Engineering** degree at the Zurich University of Applied Sciences (second semester).
+
+In my free time, I fly quadrocopters and develop plugins for fully autonomous autopilots.
+
+---
+
+## 🛠 Technologies & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=csharp,ts,svelte,nextjs,docker,mbed,aspnet" alt="Technologies" />
+</p>
+
+---
+
+## 🚀 Projects
+
+Here are some projects I'm proud of:
+
+- **[tabby](https://github.com/nwalser/tabby)** – Modern terminal application built with TypeScript.
+- **[personal-homepage](https://github.com/nwalser/personal-homepage)** – My personal homepage built with Svelte.
+- **[Project Name 1]** – Description of the project (link).
+- **[Project Name 2]** – Description of the project (link).
+
+---
+
+## 📊 GitHub Stats
+
+![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwalser&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwalser&layout=compact&theme=radical)
+
+---
+
+## ✉️ Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/nathaniel-walser/)
+- [GitHub](https://github.com/nwalser)
+- Email: your-email@example.com
+
+---
+
+> “Always learning, always building.”  
+
