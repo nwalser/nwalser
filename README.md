@@ -38,12 +38,10 @@ Here are some projects I'm proud of:
 ---
 
 ## ✉️ Contact Me
-
 - [LinkedIn](https://www.linkedin.com/in/nathaniel-walser/)
 - [GitHub](https://github.com/nwalser)
-- Email: your-email@example.com
+- Email: personal@nathaniel-walser.com
 
 ---
 
 > “Always learning, always building.”  
-
