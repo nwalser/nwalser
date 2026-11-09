@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Nathaniel Walser
 
-I'm a fullstack developer based in Saint Gallen, Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies. I enjoy creating software algorithms, including neuronal networks for surface inspection and quality assurance.
+I'm a fullstack developer based in Switzerland. My fascination with technology and robotics has led me to pursue programming, constantly improving my skills and staying up-to-date with the latest technologies.
 
-I am currently pursuing a **Electrical Engineering** masters-degree at the Zurich University of Applied Sciences.
-
-In my free time, I fly quadrocopters and develop plugins for fully autonomous autopilots.
+I am currently pursuing an **Electrical Engineering** masters-degree at the Zurich University of Applied Sciences.
 
 ## 🛠 Technologies & Skills
 
